@@ -3,7 +3,7 @@ K-Nearest Neighbour is one of the simplest Machine Learning algorithms based on 
 
 Key Concepts 
 1.	Distance Metric: KNN often uses Euclidean distance to find the distance between data points. 
-2.	K-7Value: The number of neighbors to consider (K). Choosing an optimal K value is essential for the algorithm's accuracy. 
+2.	K-Value: The number of neighbors to consider (K). Choosing an optimal K value is essential for the algorithm's accuracy. 
 3.	Voting Mechanism: For classification, each neighbor votes for the class label, and the label with the most votes is selected.
 
 How KNN Works
