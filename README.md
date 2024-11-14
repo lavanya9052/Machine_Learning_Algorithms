@@ -55,6 +55,7 @@ By calculating the Euclidean distance we got the nearest neighbors, as Two neare
 
 - A larger value of k smooths out the decision boundary but may overlook local patterns.
 - ![step6](https://github.com/user-attachments/assets/739d183e-9b6a-4454-b54e-e6f1b728d054)
+- In this we can see 4 nearest neighbors are from green color and three nearest neighbors in orange color,hence this new data point must belong to green color.
 
 **Adavantages of KNN**
 
@@ -69,6 +70,10 @@ By calculating the Euclidean distance we got the nearest neighbors, as Two neare
 - **Computationally expensive**: Especially with large datasets, since the algorithm needs to calculate the distance to every training data point for each prediction.
 - **Storage requirements:** It requires storing the entire dataset.
 - Always needs to determine the value of K which may be complex some time.
+
+
+**Acoknowledgements**
+[KNN_Algorithm](https://www.javatpoint.com/k-nearest-neighbor-algorithm-for-machine-learning)
 
 
 
