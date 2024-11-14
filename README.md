@@ -1,6 +1,6 @@
 **Introduction**
 
-K-Nearest Neighbour is one of the simplest Machine Learning algorithms based on Supervised Learning technique. KNN algorithm stores all the available data and classifies a new data point based on the similarity. This means when new data appears then it can be easily classified into a well suite category by using KNN algorithm. KNN algorithm can be used for Regression as well as for Classification but mostly it is used for the Classification problems. It is also called a lazy learner algorithm because it does not learn from the training set immediately instead it stores the dataset and at the time of classification, it performs an action on the dataset.
+K-Nearest Neighbour is one of the simplest Machine Learning algorithms based on Supervised Learning technique. KNN algorithm stores all the available data and classifies a new data point based on the similarity. KNN algorithm can be used for Regression as well as for Classification but mostly it is used for the Classification problems. It is also called a lazy learner algorithm because it does not learn from the training set immediately instead it stores the dataset and at the time of classification, it performs an action on the dataset.
 
 **Key Concepts** 
 
@@ -50,6 +50,22 @@ By calculating the Euclidean distance we got the nearest neighbors, as Two neare
 ![step4](https://github.com/user-attachments/assets/2d692009-7866-4c09-a428-8050e3852062)
 
 **Step 5:**
+
+
+**Adavantages of KNN**
+
+- **Simple and intuitive:** Easy to understand and implement.
+
+- **No training phase:** Can be very fast in scenarios with small datasets.
+
+- **Versatile:** Can handle multi-class classification problems.
+
+**Disadvantages of KNN**
+
+- **Computationally expensive**: Especially with large datasets, since the algorithm needs to calculate the distance to every training data point for each prediction.
+  - **Storage requirements:** It requires storing the entire dataset.
+  - Always needs to determine the value of K which may be complex some time.
+
 
 
 
