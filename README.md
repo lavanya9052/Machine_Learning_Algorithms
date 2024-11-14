@@ -54,7 +54,7 @@ By calculating the Euclidean distance we got the nearest neighbors, as Two neare
 - The choice of k is crucial:A small value of k (e.g., 1 or 2) can lead to overfitting, as the model may be too sensitive to noise in the training data.
 
 - A larger value of k smooths out the decision boundary but may overlook local patterns.
-- ![step6](https://github.com/user-attachments/assets/739d183e-9b6a-4454-b54e-e6f1b728d054)
+ ![step6](https://github.com/user-attachments/assets/739d183e-9b6a-4454-b54e-e6f1b728d054)
 - In this we can see 4 nearest neighbors are from green color and three nearest neighbors in orange color,hence this new data point must belong to green color.
 
 **Adavantages of KNN**
@@ -73,6 +73,7 @@ By calculating the Euclidean distance we got the nearest neighbors, as Two neare
 
 
 **Acoknowledgements**
+
 [KNN_Algorithm](https://www.javatpoint.com/k-nearest-neighbor-algorithm-for-machine-learning)
 
 
