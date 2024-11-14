@@ -12,17 +12,17 @@ K-Nearest Neighbour is one of the simplest Machine Learning algorithms based on 
 
 **How KNN Works**
 
-- **Load the Data**: Load the labeled dataset.
+- **Step 1**: Load the labeled dataset.
 
-- 	**Define K**: Choose the number of neighbors KKK. 
+- 	**Step 2**: Select the number K of the neighbors.
 
-- **Calculate Distance**: For each data point in the dataset, calculate the distance to the new data point using a distance metric (e.g., Euclidean distance).
+- **Step 3**: For each data point in the dataset, calculate the distance to the new data point using a distance metric (e.g., Euclidean distance).
 
-- **Sort Neighbors**: Sort all distances and select the K-nearest neighbors.
+- **Step 4**: Sort all distances and select the K-nearest neighbors as per the calculated Euclidean distance.
 
-- **Vote**: For classification, each of the K neighbors votes for their class label, and the majority label is assigned to the new data point.
+- **Step 5**: For classification, each of the K neighbors votes for their class label, and the majority label is assigned to the new data point.
 
-- **Prediction**: Return the predicted label or value for the query point.
+- **Step 6**: Return the predicted label or value for the query point.
 
 **UNDERSTANDING HOW KNN WORKS**
 
