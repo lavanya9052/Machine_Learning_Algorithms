@@ -67,8 +67,8 @@ By calculating the Euclidean distance we got the nearest neighbors, as Two neare
 **Disadvantages of KNN**
 
 - **Computationally expensive**: Especially with large datasets, since the algorithm needs to calculate the distance to every training data point for each prediction.
-  - **Storage requirements:** It requires storing the entire dataset.
-  - Always needs to determine the value of K which may be complex some time.
+- **Storage requirements:** It requires storing the entire dataset.
+- Always needs to determine the value of K which may be complex some time.
 
 
 
