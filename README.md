@@ -50,7 +50,7 @@ By calculating the Euclidean distance we got the nearest neighbors, as Two neare
 
 ![step4](https://github.com/user-attachments/assets/2d692009-7866-4c09-a428-8050e3852062)
 
-**Step 5:**Choosing the best k value
+**Step 5:** Choosing the best k value
 - The choice of k is crucial:A small value of k (e.g., 1 or 2) can lead to overfitting, as the model may be too sensitive to noise in the training data.
 
 - A larger value of k smooths out the decision boundary but may overlook local patterns.
