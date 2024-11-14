@@ -39,4 +39,24 @@ K-Nearest Neighbour is one of the simplest Machine Learning algorithms based on 
 
 ​![step3](https://github.com/user-attachments/assets/22e756cf-61bc-4ddc-99d6-fd4a0b0a008f)
 
+**Step 4:** Sort all distances and select the K-nearest neighbors as per the calculated Euclidean distance.
+
+By calculating the Euclidean distance we got the nearest neighbors, as Two nearest neighbors in Orange  color and one nearest neighbors in green color . Consider the below image:
+
+![Step5](https://github.com/user-attachments/assets/507f4225-df39-41ff-a0a5-8a5b8f49d7f0)
+
+-  As we can see the 2 nearest neighbors are from  orange color , hence this new data point must belong to orange color.
+
+![step4](https://github.com/user-attachments/assets/2d692009-7866-4c09-a428-8050e3852062)
+
+**Step 5:**
+
+
+
+
+
+
+
+
+
 
