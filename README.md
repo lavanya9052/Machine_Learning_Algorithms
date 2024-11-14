@@ -1,8 +1,8 @@
-#Overview
+**Introduction**
 
 K-Nearest Neighbour is one of the simplest Machine Learning algorithms based on Supervised Learning technique. KNN algorithm stores all the available data and classifies a new data point based on the similarity. This means when new data appears then it can be easily classified into a well suite category by using KNN algorithm. KNN algorithm can be used for Regression as well as for Classification but mostly it is used for the Classification problems. It is also called a lazy learner algorithm because it does not learn from the training set immediately instead it stores the dataset and at the time of classification, it performs an action on the dataset.
 
-Key Concepts 
+**Key Concepts** 
 
 1.	Distance Metric: KNN often uses Euclidean distance to find the distance between data points.
    
@@ -10,18 +10,20 @@ Key Concepts
     
 5.	Voting Mechanism: For classification, each neighbor votes for the class label, and the label with the most votes is selected.
 
-How KNN Works
+**How KNN Works**
 
-•	Load the Data: Load the labeled dataset.
+- **Load the Data**: Load the labeled dataset.
 
-•	Define K: Choose the number of neighbors KKK. 
+•	**Define K**: Choose the number of neighbors KKK. 
 
-•	Calculate Distance: For each data point in the dataset, calculate the distance to the new data point using a distance metric (e.g., Euclidean distance).
+•	**Calculate Distance**: For each data point in the dataset, calculate the distance to the new data point using a distance metric (e.g., Euclidean distance).
 
-•	Sort Neighbors: Sort all distances and select the K-nearest neighbors.
+•	**Sort Neighbors**: Sort all distances and select the K-nearest neighbors.
 
-•	Vote: For classification, each of the K neighbors votes for their class label, and the majority label is assigned to the new data point.
+•	**Vote**: For classification, each of the K neighbors votes for their class label, and the majority label is assigned to the new data point.
 
-•	Prediction: Return the predicted label or value for the query point.
+•	**Prediction**: Return the predicted label or value for the query point.
 
-UNDERSTANDING HOW KNN WORKS
+**UNDERSTANDING HOW KNN WORKS**
+
+
