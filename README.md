@@ -15,6 +15,7 @@ K-Nearest Neighbour is one of the simplest Machine Learning algorithms based on 
 - **Step 1**: Load the labeled dataset.
 
 - 	**Step 2**: Select the number K of the neighbors.
+- 	Always use an odd number as the value of K.
 
 - **Step 3**: For each data point in the dataset, calculate the distance to the new data point using a distance metric (e.g., Euclidean distance).
 
@@ -49,8 +50,11 @@ By calculating the Euclidean distance we got the nearest neighbors, as Two neare
 
 ![step4](https://github.com/user-attachments/assets/2d692009-7866-4c09-a428-8050e3852062)
 
-**Step 5:**
+**Step 5:**Choosing the best k value
+- The choice of k is crucial:A small value of k (e.g., 1 or 2) can lead to overfitting, as the model may be too sensitive to noise in the training data.
 
+- A larger value of k smooths out the decision boundary but may overlook local patterns.
+- ![step6](https://github.com/user-attachments/assets/739d183e-9b6a-4454-b54e-e6f1b728d054)
 
 **Adavantages of KNN**
 
