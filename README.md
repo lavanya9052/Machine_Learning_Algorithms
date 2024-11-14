@@ -28,7 +28,7 @@ K-Nearest Neighbour is one of the simplest Machine Learning algorithms based on 
 
 **Step 1 :** To Load the data.
 
-![step2](https://github.com/user-attachments/assets/5264036a-c587-41f1-97c8-8a211241f2db)
+![Uploading step2..png…]()
 
 
 
