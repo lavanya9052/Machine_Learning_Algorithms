@@ -31,16 +31,12 @@ K-Nearest Neighbour is one of the simplest Machine Learning algorithms based on 
 ![step2](https://github.com/user-attachments/assets/1c777c73-fe57-4d30-a9ed-ab6807a9ad34)
 
 
+**Step 2:** We will choose the number of neighbors, so we will choose the k=3.
 
+**Step 3:** We will calculate the Euclidean distance between the data points. 
 
-**Step 2:** Firstly, we will choose the number of neighbors, so we will choose the k=5.
+![step3](https://github.com/user-attachments/assets/2ceb6256-4331-4176-b0cf-1758b9aec764)
 
-
-
-
-
-
-
-
+​![step3](https://github.com/user-attachments/assets/22e756cf-61bc-4ddc-99d6-fd4a0b0a008f)
 
 
