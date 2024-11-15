@@ -1,8 +1,11 @@
 **Introduction**
 
+
 K-Nearest Neighbour is one of the simplest Machine Learning algorithms based on Supervised Learning technique. KNN algorithm stores all the available data and classifies a new data point based on the similarity. KNN algorithm can be used for Regression as well as for Classification but mostly it is used for the Classification problems. It is also called a lazy learner algorithm because it does not learn from the training set immediately instead it stores the dataset and at the time of classification, it performs an action on the dataset.
 
 **Dataset**
+
+
 The K-Nearest Neighbors (KNN) algorithm is a simple and effective method for classification tasks, including breast cancer diagnosis. KNN is a supervised machine learning algorithm that classifies data points based on their similarity to other data points in a given dataset.The breast cancer dataset typically contains features extracted from breast tissue samples, such as the Breast Cancer Wisconsin Dataset. The features can include cell characteristics like radius, texture, perimeter, area, smoothness, etc. The target label is often binary, indicating whether the cancer is benign (non-cancerous) or malignant (cancerous).
 
 **Key Concepts** 
